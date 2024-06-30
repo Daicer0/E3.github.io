@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/username/my-website/main/joker.jpg" alt="Descripción de la imagen">
+
 body {
-    background-image: ('poker.jpg');
+    background-image: url('https://raw.githubusercontent.com/username/repository/main/images/poker.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
