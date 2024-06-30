@@ -1,0 +1,28 @@
+
+/*###############NAV####################*/
+.minav{
+	overflow: hidden;
+	background-color: rgb(20, 179, 105);
+
+}
+
+.minav a{
+	float: left;
+	padding: 14px 16px;
+	text-decoration: none;
+	color: rgb(17, 13, 13);
+
+}
+
+.minav a:hover{
+	background-color: rgb(39, 167, 184);
+	color: darkred;
+
+}
+
+/*###############FIN NAV####################*/
+
+
+
+
+
